@@ -1,1 +1,3 @@
-JavaScript is a high level object oriented programming language.
+JavaScript is a high level cross-platform object oriented
+scripting programming language. Used to make webpages interactiv(e.g,button,having clickable etc,),
+
