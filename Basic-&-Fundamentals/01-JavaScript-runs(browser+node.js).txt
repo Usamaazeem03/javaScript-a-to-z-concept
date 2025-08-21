@@ -1,0 +1,24 @@
+JavaScript Runs in Two Main Environments 🌍
+
+1. Broser (Client-Side JavaScript) 🖥️
+- Runs directly inside web browsers like Chrome, Safari, edge.
+- Used to make webpages interactive(DOM manipulation,animations,from validation,etc).
+
+Example (HTML):
+<script>
+alert("Hello from the browser!")
+</script>
+
+2. Node.js (Server-Side JavaSceipt) ⚡
+- Runs outside the browser on yours computer/server.
+- Build on Chrome's V8 engine but adds APIs
+to interact wit the file system, netWork,databades, etc.
+
+Example (JavaScript):
+console.log("Hello from Node.js!")
+👉 Run in treminal:
+node app.js
+
+✅ In shoort: 
+_ Browser JS Frontend(interactivity fro users),
+_ Node.js Backend(server logic, APIs, Databases).
