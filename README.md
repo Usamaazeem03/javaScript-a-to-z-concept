@@ -16,6 +16,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 💬 `03-comments.js` — Comments
 - 🔢 `04-variables.js` — Variables & hoisting
 - 🔎 `05-data-types.js` — Data types
+- 🔄 `06-type-conversion&coercion.js` — Type Conversion and Coercion
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -31,7 +32,8 @@ javaScript-a-to-z-concept/
 │  ├─ 02-syntex-basics.js
 │  ├─ 03-comments.js
 │  ├─ 04-variables.js
-│  └─ 05-data-types.js
+│  ├─ 05-data-types.js
+│  └─ 06-type-conversion&coercion.js
 ├─ README.md
 ```
 
@@ -48,3 +50,11 @@ git clone https://github.com/Usamaazeem03/javaScript-a-to-z-concept.git
 ```
 
 If you'd like a different layout or more metadata (license, contributing, badges), tell me which items to add.
+
+### 📝 Blog (dev.to)
+
+I also write tutorials and short posts on dev.to. Check out my profile:
+
+https://dev.to/usama_azeem_0f4baef7a72ee
+
+Follow for articles, examples, and quick tips related to these notes.
