@@ -59,8 +59,50 @@ console.log(typeof {}); // "object"
 console.log(typeof []); // "object"
 console.log(typeof function () {}); // "function"
 
+// Bitwise Operators
+let num1 = 5; // Binary: 0101
+let num2 = 3; // Binary: 0011
+console.log(num1 & num2); // AND: 1 (Binary: 0001)
+console.log(num1 | num2); // OR: 7 (Binary: 0111
+console.log(num1 ^ num2); // XOR: 6 (Binary: 0110)
+console.log(~num1); // NOT: -6 (Binary: ...11111010)
+console.log(num1 << 1); // Left shift: 10 (Binary: 1010)
+console.log(num1 >> 1); // Right shift: 2 (Binary: 0010)
+console.log(num1 >>> 1); // Unsigned right shift: 2 (Binary: 0010)
+
+//spread Operator
+let arr1 = [1, 2, 3];
+let arr2 = [4, 5, 6];
+let combinedArr = [...arr1, ...arr2];
+console.log(combinedArr); // [1, 2, 3, 4, 5, 6]
+
+//rest Operator
+function sum(...numbers) {
+  return numbers.reduce((acc, curr) => acc + curr, 0);
+}
+console.log(sum(1, 2, 3, 4)); // 10
+console.log(sum(5, 10, 15)); // 30
+
+// Optional Chaining Operator (?.)
+let user = {
+  name: "Usama",
+  address: {
+    city: "Istanbul",
+  },
+};
+console.log(user?.address?.city); // "Wonderland"
+console.log(user?.contact?.phone); // undefined (no error)
+
+// Nullish Coalescing Operator (??)
+let foo = null ?? "default string";
+console.log(foo); // "default string"
+let bar = 0 ?? 42;
+console.log(bar); // 0 (because 0 is not null or undefined)
+let baz = undefined ?? "fallback";
+console.log(baz); // "fallback"
+
 // Summary ✨
-// JavaScript provides a variety of operators to perform operations on variables and values. Understanding these operators
-// is essential for effective programming in JavaScript.
-// (This is a JavaScript file, not a JSON
-// file, so it can be run in any JavaScript environment like a web browser or Node.js)
+// This code demonstrates various types of operators in JavaScript including arithmetic, assignment, comparison, logical, string, ternary, typeof, bitwise, spread, rest, optional chaining, and nullish coalescing operators. Each operator is illustrated with examples to show how they work and their outputs.
+// Each section includes comments explaining the purpose and functionality of the operators used.
+console.log(user?.address?.city); // "Istanbul"
+console.log(user?.contact?.phone); // undefined (no error)

@@ -1,0 +1,34 @@
+// Template Literals in JavaScript
+let name = "Usama";
+let age = 25;
+let city = "Istanbul";
+// Using Template Literals
+let greeting = `Hello, my name is ${name}. I am ${age} years old
+and I live in ${city}.`;
+console.log(greeting);
+// Multi-line strings with Template Literals
+let multiLineString = `This is a string
+that spans multiple lines
+using template literals.`;
+console.log(multiLineString);
+// Expression interpolation
+let a = 5;
+let b = 10;
+console.log(`The sum of ${a} and ${b} is ${a + b}.`);
+// Nested expressions
+console.log(
+  `The product of ${a} and ${b} is ${a * b}, and the square of ${a} is ${
+    a ** 2
+  }.`
+);
+// Tagged Template Literals
+function tag(strings, ...values) {
+  console.log(strings); // Array of string literals
+  console.log(values); // Array of interpolated values
+  return "Tagged Template Literal Example";
+}
+let taggedResult = tag`Hello, my name is ${name} and I am ${age} years old.`;
+console.log(taggedResult);
+
+// Summary ✨
+// This code demonstrates the use of template literals in JavaScript for string interpolation, multi-line strings, expression evaluation, and tagged template literals. Each feature is illustrated with examples to show how they work and their outputs.
