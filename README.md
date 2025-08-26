@@ -28,7 +28,7 @@ Root of the project:
 
 ```
 javaScript-a-to-z-concept/
-├─ Basic-&-Fundamentals/
+├─ 01-Basic-&-Fundamentals/
 │  ├─ 00-javaScript-intro-&-history.txt
 │  ├─ 01-JavaScript-runs(browser+node.js).txt
 │  ├─ 02-syntex-basics.js
@@ -38,6 +38,9 @@ javaScript-a-to-z-concept/
 │  ├─ 06-type-conversion&coercion.js
 │  ├─ 07-operators.js
 │  └─ 08-template-literals.js
+│
+├─ 02-Control-Flow/
+│  ├─ 01
 ├─ README.md
 ```
 
