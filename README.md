@@ -17,6 +17,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🔢 `04-variables.js` — Variables & hoisting
 - 🔎 `05-data-types.js` — Data types
 - 🔄 `06-type-conversion&coercion.js` — Type Conversion and Coercion
+- 🧮 `07-operators.js` — Operators
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -33,7 +34,8 @@ javaScript-a-to-z-concept/
 │  ├─ 03-comments.js
 │  ├─ 04-variables.js
 │  ├─ 05-data-types.js
-│  └─ 06-type-conversion&coercion.js
+│  ├─ 06-type-conversion&coercion.js
+│  └─ 07-operators.js
 ├─ README.md
 ```
 
