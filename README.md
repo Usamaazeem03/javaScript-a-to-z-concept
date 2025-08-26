@@ -20,6 +20,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🧮 `07-operators.js` — Operators
 - 📝 `08-template-literals.js` — Template Literals
 - ⚖️ `01-if-else-else,if.js` — if/else and else/if statements
+- 🔀 `02-switch-statement.js` — Switch statements
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -42,6 +43,7 @@ javaScript-a-to-z-concept/
 │
 ├─ 02-Control-Flow/
 │  ├─ 01-if-else-else,if.js
+│  ├─ 02-switch-statement.js
 ├─ README.md
 ```
 
