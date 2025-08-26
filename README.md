@@ -1,6 +1,6 @@
 ## 🚀 JavaScript A to Z — A friendly guide
 
-Welcome! This is a small, easy-to-follow collection of JavaScript notes and examples — written like short blog posts so you can learn fast and enjoy the ride. Each file in `Basic-&-Fundamentals` focuses on one concept with clear code examples.
+Welcome! This is a small, easy-to-follow collection of JavaScript notes and examples — written like short blog posts so you can learn fast and enjoy the ride. Each file in `01-Basic-&-Fundamentals` focuses on one concept with clear code examples.
 
 ### ✨ Quick tips
 
@@ -19,6 +19,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🔄 `06-type-conversion&coercion.js` — Type Conversion and Coercion
 - 🧮 `07-operators.js` — Operators
 - 📝 `08-template-literals.js` — Template Literals
+- ⚖️ `01-if-else-else,if.js` — if/else and else/if statements
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -40,7 +41,7 @@ javaScript-a-to-z-concept/
 │  └─ 08-template-literals.js
 │
 ├─ 02-Control-Flow/
-│  ├─ 01
+│  ├─ 01-if-else-else,if.js
 ├─ README.md
 ```
 
