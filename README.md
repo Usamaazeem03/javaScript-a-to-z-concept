@@ -23,6 +23,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🔀 `02-switch-statement.js` — Switch statements
 - ♾️ `03-for-while-doWhile.js` — loop's statements
 - 🔁 `04-for-in-vs-for-of.js` — for in vs for of loop
+- 🚦 `05-break-and-continve.js` — breack and continue
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -47,6 +48,9 @@ javaScript-a-to-z-concept/
 │  ├─ 01-if-else-else,if.js
 │  ├─ 02-switch-statement.js
 │  ├─ 03-for-while-doWhile.js
+│  ├─ 04-for-in-vs-for-of.js
+│  └─ 05-break-and-continve.js
+│
 ├─ README.md
 ```
 
