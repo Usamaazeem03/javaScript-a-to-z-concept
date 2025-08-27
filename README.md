@@ -22,6 +22,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ⚖️ `01-if-else-else,if.js` — if/else and else/if statements
 - 🔀 `02-switch-statement.js` — Switch statements
 - ♾️ `03-for-while-doWhile.js` — loop's statements
+- 🔁 `04-for-in-vs-for-of.js` — for in vs for of loop
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
