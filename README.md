@@ -21,6 +21,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 📝 `08-template-literals.js` — Template Literals
 - ⚖️ `01-if-else-else,if.js` — if/else and else/if statements
 - 🔀 `02-switch-statement.js` — Switch statements
+- ♾️ `03-for-while-doWhile.js` — loop's statements
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -44,6 +45,7 @@ javaScript-a-to-z-concept/
 ├─ 02-Control-Flow/
 │  ├─ 01-if-else-else,if.js
 │  ├─ 02-switch-statement.js
+│  ├─ 03-for-while-doWhile.js
 ├─ README.md
 ```
 
