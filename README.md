@@ -12,7 +12,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 
 - 📝 `00-javaScript-intro-&-history.txt` — Intro & history
 - 🌐 `01-JavaScript-runs(browser+node.js).txt` — Where JS runs
-- 🧩 `02-syntex-basics.js` — Syntax basics
+- 🔤 `02-syntex-basics.js` — Syntax basics
 - 💬 `03-comments.js` — Comments
 - 🔢 `04-variables.js` — Variables & hoisting
 - 🔎 `05-data-types.js` — Data types
@@ -24,6 +24,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ♾️ `03-for-while-doWhile.js` — loop's statements
 - 🔁 `04-for-in-vs-for-of.js` — for in vs for of loop
 - 🚦 `05-break-and-continve.js` — breack and continue
+- 🧩 `function-declaration.js` — breack and continue
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -50,6 +51,10 @@ javaScript-a-to-z-concept/
 │  ├─ 03-for-while-doWhile.js
 │  ├─ 04-for-in-vs-for-of.js
 │  └─ 05-break-and-continve.js
+│
+├─ 03-Functions/
+│  ├─ function-declaration.js
+│  └─
 │
 ├─ README.md
 ```
