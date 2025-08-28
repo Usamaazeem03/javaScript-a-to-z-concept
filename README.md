@@ -28,6 +28,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🔧 `02-function-declaration.js` — function expression
 - 🎯 `03-Arrow-function.js` — Arrow function
 - ⚙️ `04-Default-parameters.js` — Default Prameters
+- 📦 `05-Rest-parameters.js` — Rest Prameters
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -60,6 +61,7 @@ javaScript-a-to-z-concept/
 │  ├─ 02-function-expression.js
 │  ├─ 03-Arrow-function.js
 │  ├─ 04-Default-parameters.js
+│  ├─ 05-Rest-parameters.js
 │  └─
 │
 ├─ README.md
