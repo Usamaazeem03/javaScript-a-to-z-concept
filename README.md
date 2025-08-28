@@ -31,6 +31,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 📦 `05-Rest-parameters.js` — Rest Prameters
 - 🔙 `06-Return-valuse.js` — Return Valuse
 - 🕶️ `07-Anonymous-function.js` — Anonymous Function
+- 🪜 `08-Higher-order-function.js` — Higher Order Function
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -66,6 +67,7 @@ javaScript-a-to-z-concept/
 │  ├─ 05-Rest-parameters.js
 │  ├─ 06-Return-valuse.js
 │  ├─ 07-Anonymous-function.js
+│  ├─ 08-Higher-order-function.js
 │  └─
 │
 ├─ README.md
