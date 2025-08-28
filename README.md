@@ -29,6 +29,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🎯 `03-Arrow-function.js` — Arrow function
 - ⚙️ `04-Default-parameters.js` — Default Prameters
 - 📦 `05-Rest-parameters.js` — Rest Prameters
+- 📦 `06-Return-valuse.js` — Return Valuse
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
