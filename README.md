@@ -29,7 +29,8 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🎯 `03-Arrow-function.js` — Arrow function
 - ⚙️ `04-Default-parameters.js` — Default Prameters
 - 📦 `05-Rest-parameters.js` — Rest Prameters
-- 📦 `06-Return-valuse.js` — Return Valuse
+- 🔙 `06-Return-valuse.js` — Return Valuse
+- 🕶️ `07-Anonymous-function.js` — Anonymous Function
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -63,6 +64,8 @@ javaScript-a-to-z-concept/
 │  ├─ 03-Arrow-function.js
 │  ├─ 04-Default-parameters.js
 │  ├─ 05-Rest-parameters.js
+│  ├─ 06-Return-valuse.js
+│  ├─ 07-Anonymous-function.js
 │  └─
 │
 ├─ README.md
