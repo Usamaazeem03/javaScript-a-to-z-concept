@@ -24,9 +24,9 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ♾️ `03-for-while-doWhile.js` — loop's statements
 - 🔁 `04-for-in-vs-for-of.js` — for in vs for of loop
 - 🚦 `05-break-and-continve.js` — breack and continue
-- 🧩 `function-declaration.js` — breack and continue
-
-Happy learning — drop in often and tinker with the examples! 🌱
+- 🧩 `01-function-declaration.js` — function declaration
+- 🧩 `02-function-declaration.js` — function expression
+  Happy learning — drop in often and tinker with the examples! 🌱
 
 ### Folder structure
 
@@ -54,6 +54,7 @@ javaScript-a-to-z-concept/
 │
 ├─ 03-Functions/
 │  ├─ function-declaration.js
+│  ├─ function-expression.js
 │  └─
 │
 ├─ README.md
