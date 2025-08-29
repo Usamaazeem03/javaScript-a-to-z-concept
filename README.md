@@ -37,6 +37,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🛠️ `02-Function-scope.js` — Function Scope
 - 🚧 `03-Block-scope.js` — Block Scope
 - 🧭 `04-Lexical-scope.js` — Lexical Scope
+- 🔒 `05-Closures.js` — Closures real-life use cases
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -80,7 +81,7 @@ javaScript-a-to-z-concept/
 │  ├─ 02-Function-scope.js
 │  ├─ 03-Block-scope.js
 │  ├─ 04-Lexical-scope.js
-│  └─
+│  └─ 05-Closures.js
 │
 ├─ README.md
 ```
