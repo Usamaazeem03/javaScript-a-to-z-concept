@@ -33,6 +33,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🕶️ `07-Anonymous-function.js` — Anonymous Function
 - 🪜 `08-Higher-order-function.js` — Higher Order Function
 - 📞 `09-Callbacks.js` — Callbacks
+- 🌍 `01-Global-scope.js` — Global Scope
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -70,6 +71,10 @@ javaScript-a-to-z-concept/
 │  ├─ 07-Anonymous-function.js
 │  ├─ 08-Higher-order-function.js
 │  └─ 09-Callbacks.js
+│
+├─ 04-Scope-and-closures/
+│  ├─ 01-Global-scope.js
+│  └─
 │
 ├─ README.md
 ```
