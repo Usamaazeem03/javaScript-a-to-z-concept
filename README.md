@@ -35,6 +35,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 📞 `09-Callbacks.js` — Callbacks
 - 🌍 `01-Global-scope.js` — Global Scope
 - 🛠️ `02-Function-scope.js` — Function Scope
+- 🚧 `03-Block-scope.js` — Block Scope
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -76,6 +77,7 @@ javaScript-a-to-z-concept/
 ├─ 04-Scope-and-closures/
 │  ├─ 01-Global-scope.js
 │  ├─ 02-Function-scope.js
+│  ├─ 03-Block-scope.js
 │  └─
 │
 ├─ README.md
