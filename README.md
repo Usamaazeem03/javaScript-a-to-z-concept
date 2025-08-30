@@ -38,6 +38,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🚧 `03-Block-scope.js` — Block Scope
 - 🧭 `04-Lexical-scope.js` — Lexical Scope
 - 🔒 `05-Closures.js` — Closures real-life use cases
+- 🏷️ `01-object-literals` — Object Literals
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -82,6 +83,10 @@ javaScript-a-to-z-concept/
 │  ├─ 03-Block-scope.js
 │  ├─ 04-Lexical-scope.js
 │  └─ 05-Closures.js
+│
+├─ 05-Objects/
+│  ├─ 01-object-literals
+│  └─
 │
 ├─ README.md
 ```
