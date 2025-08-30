@@ -39,8 +39,8 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🧭 `04-Lexical-scope.js` — Lexical Scope
 - 🔒 `05-Closures.js` — Closures real-life use cases
 - 🏷️ `01-Object-literals.js` — Object Literals
-- 🪧 `02-Accessing-properties.js` — Accessing properties(dot and bracket notation)
-
+- 🔑 `02-Accessing-properties.js` — Accessing properties(dot and bracket notation)
+- ✍️ `03-Adding-updating-removing.js` — Adding/updating/removing propertes
   Happy learning — drop in often and tinker with the examples! 🌱
 
 ### Folder structure
@@ -88,6 +88,7 @@ javaScript-a-to-z-concept/
 ├─ 05-Objects/
 │  ├─ 01-object-literals.js
 │  ├─ 02-Accessing-properties.js
+│  ├─ 03-Adding-updating-removing.js
 │  └─
 │
 ├─ README.md
