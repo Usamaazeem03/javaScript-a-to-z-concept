@@ -38,7 +38,8 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🚧 `03-Block-scope.js` — Block Scope
 - 🧭 `04-Lexical-scope.js` — Lexical Scope
 - 🔒 `05-Closures.js` — Closures real-life use cases
-- 🏷️ `01-object-literals` — Object Literals
+- 🏷️ `01-Object-literals.js` — Object Literals
+- 🪧 `02-Accessing-properties.js` — Accessing properties(dot and bracket notation)
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -85,7 +86,8 @@ javaScript-a-to-z-concept/
 │  └─ 05-Closures.js
 │
 ├─ 05-Objects/
-│  ├─ 01-object-literals
+│  ├─ 01-object-literals.js
+│  ├─ 02-Accessing-properties.js
 │  └─
 │
 ├─ README.md
