@@ -41,6 +41,8 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🏷️ `01-Object-literals.js` — Object Literals
 - 🔑 `02-Accessing-properties.js` — Accessing properties(dot and bracket notation)
 - ✍️ `03-Adding-updating-removing.js` — Adding/updating/removing propertes
+- 🪆 `04-Nested-objects.js` — Nested Objects
+
   Happy learning — drop in often and tinker with the examples! 🌱
 
 ### Folder structure
@@ -89,6 +91,7 @@ javaScript-a-to-z-concept/
 │  ├─ 01-object-literals.js
 │  ├─ 02-Accessing-properties.js
 │  ├─ 03-Adding-updating-removing.js
+│  ├─ 04-Nested-objects.js
 │  └─
 │
 ├─ README.md
