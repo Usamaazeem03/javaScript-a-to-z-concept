@@ -42,6 +42,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🔑 `02-Accessing-properties.js` — Accessing properties(dot and bracket notation)
 - ✍️ `03-Adding-updating-removing.js` — Adding/updating/removing propertes
 - 🪆 `04-Nested-objects.js` — Nested Objects
+- 🪞 `05-This-keyword.js` — This keyword
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -92,6 +93,7 @@ javaScript-a-to-z-concept/
 │  ├─ 02-Accessing-properties.js
 │  ├─ 03-Adding-updating-removing.js
 │  ├─ 04-Nested-objects.js
+│  ├─ 05-This-keyword.js
 │  └─
 │
 ├─ README.md

@@ -3,6 +3,7 @@ const user = {
   name: "Usman",
   age: 22,
   address: {
+    // Nested Object
     street: "123 Main St",
     city: "Lahore",
     country: "Pakistan",
