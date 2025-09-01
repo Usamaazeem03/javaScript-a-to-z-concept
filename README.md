@@ -43,6 +43,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ✍️ `03-Adding-updating-removing.js` — Adding/updating/removing propertes
 - 🪆 `04-Nested-objects.js` — Nested Objects
 - 🪞 `05-This-keyword.js` — This keyword
+- ⚙️ `06-Object-mathods.js` — Object Mathods
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -94,6 +95,7 @@ javaScript-a-to-z-concept/
 │  ├─ 03-Adding-updating-removing.js
 │  ├─ 04-Nested-objects.js
 │  ├─ 05-This-keyword.js
+│  ├─ 06-Object-mathods.js
 │  └─
 │
 ├─ README.md
