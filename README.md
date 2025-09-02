@@ -45,8 +45,9 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🪞 `05-This-keyword.js` — This keyword
 - ⚙️ `06-Object-mathods.js` — Object Mathods
 - ✨ `07-Shorthand-property.js` — Shorthand Property
+- 🤖 `08-Computed-property.js` — Computed Property
 
-  Happy learning — drop in often and tinker with the examples! 🌱
+Happy learning — drop in often and tinker with the examples! 🌱
 
 ### Folder structure
 
@@ -98,6 +99,7 @@ javaScript-a-to-z-concept/
 │  ├─ 05-This-keyword.js
 │  ├─ 06-Object-mathods.js
 │  ├─ 07-Shorthand-property.js
+│  ├─ 08-Computed-property.js
 │  └─
 │
 ├─ README.md

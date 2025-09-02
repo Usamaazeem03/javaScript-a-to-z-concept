@@ -1,4 +1,4 @@
-// Shorthand Property
+// Shorthand Property names in JavaScript
 const name = "Usama";
 const age = 22;
 const country = "Pakistan";
