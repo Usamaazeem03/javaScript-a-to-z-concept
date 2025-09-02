@@ -44,6 +44,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🪆 `04-Nested-objects.js` — Nested Objects
 - 🪞 `05-This-keyword.js` — This keyword
 - ⚙️ `06-Object-mathods.js` — Object Mathods
+- ✨ `07-Shorthand-property.js` — Shorthand Property
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -96,6 +97,7 @@ javaScript-a-to-z-concept/
 │  ├─ 04-Nested-objects.js
 │  ├─ 05-This-keyword.js
 │  ├─ 06-Object-mathods.js
+│  ├─ 07-Shorthand-property.js
 │  └─
 │
 ├─ README.md
