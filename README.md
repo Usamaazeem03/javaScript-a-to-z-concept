@@ -46,6 +46,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ⚙️ `06-Object-mathods.js` — Object Mathods
 - ✨ `07-Shorthand-property.js` — Shorthand Property
 - 🤖 `08-Computed-property.js` — Computed Property
+- ✂️ `09-Object-destructuring.js` — Object Destructuring
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -100,6 +101,7 @@ javaScript-a-to-z-concept/
 │  ├─ 06-Object-mathods.js
 │  ├─ 07-Shorthand-property.js
 │  ├─ 08-Computed-property.js
+│  ├─ 09-Object-destructuring.js
 │  └─
 │
 ├─ README.md
