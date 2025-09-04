@@ -47,6 +47,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ✨ `07-Shorthand-property.js` — Shorthand Property
 - 🤖 `08-Computed-property.js` — Computed Property
 - ✂️ `09-Object-destructuring.js` — Object Destructuring
+- 🌀 `10-Object-SpreadAnsRest.js` — Object Spread/Rest
 
 Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -102,6 +103,7 @@ javaScript-a-to-z-concept/
 │  ├─ 07-Shorthand-property.js
 │  ├─ 08-Computed-property.js
 │  ├─ 09-Object-destructuring.js
+│  ├─ 10-Object-SpreadAnsRest.js
 │  └─
 │
 ├─ README.md
