@@ -48,8 +48,9 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🤖 `08-Computed-property.js` — Computed Property
 - ✂️ `09-Object-destructuring.js` — Object Destructuring
 - 🌀 `10-Object-SpreadAnsRest.js` — Object Spread/Rest
+- 🗂️ `11-ObjectKey-objectValues-objectEntries.js` — Object.keys / Object.values / Object.entries,
 
-Happy learning — drop in often and tinker with the examples! 🌱
+  Happy learning — drop in often and tinker with the examples! 🌱
 
 ### Folder structure
 
@@ -104,6 +105,7 @@ javaScript-a-to-z-concept/
 │  ├─ 08-Computed-property.js
 │  ├─ 09-Object-destructuring.js
 │  ├─ 10-Object-SpreadAnsRest.js
+│  ├─ 11-ObjectKey-objectValues-objectEntries.js
 │  └─
 │
 ├─ README.md

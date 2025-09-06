@@ -1,4 +1,4 @@
-// Object Spread and Reat
+// Object Spread and Rest
 const birdDertails = {
   name: "Crow",
   coler: "black",
