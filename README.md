@@ -49,6 +49,8 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ✂️ `09-Object-destructuring.js` — Object Destructuring
 - 🌀 `10-Object-SpreadAnsRest.js` — Object Spread/Rest
 - 🗂️ `11-ObjectKey-objectValues-objectEntries.js` — Object.keys / Object.values / Object.entries,
+- 🔗 `12-ObjectAssign.js` — Object.Assign()
+- ❄️ `13-ObjectFreezing/Sealing.js` — Object Freezing / Sealing
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -106,6 +108,8 @@ javaScript-a-to-z-concept/
 │  ├─ 09-Object-destructuring.js
 │  ├─ 10-Object-SpreadAnsRest.js
 │  ├─ 11-ObjectKey-objectValues-objectEntries.js
+│  ├─ 12-ObjectAssign.js
+│  ├─ 13-ObjectFreezing/Sealing.js`
 │  └─
 │
 ├─ README.md
