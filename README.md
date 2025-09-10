@@ -50,7 +50,8 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🌀 `10-Object-SpreadAnsRest.js` — Object Spread/Rest
 - 🗂️ `11-ObjectKey-objectValues-objectEntries.js` — Object.keys / Object.values / Object.entries,
 - 🔗 `12-ObjectAssign.js` — Object.Assign()
-- ❄️ `13-ObjectFreezing/Sealing.js` — Object Freezing / Sealing
+- ❄️ `13-ObjectFreezing-Sealing` — Object Freezing / Sealing
+- 🧬 `14-Prototypes` —Object Prototypes
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -109,7 +110,8 @@ javaScript-a-to-z-concept/
 │  ├─ 10-Object-SpreadAnsRest.js
 │  ├─ 11-ObjectKey-objectValues-objectEntries.js
 │  ├─ 12-ObjectAssign.js
-│  ├─ 13-ObjectFreezing/Sealing.js`
+│  ├─ 13-ObjectFreezing-Sealing
+│  ├─ 14-Prototypes
 │  └─
 │
 ├─ README.md
