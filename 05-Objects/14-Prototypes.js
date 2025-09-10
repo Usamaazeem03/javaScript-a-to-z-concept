@@ -52,3 +52,10 @@ sparrow.fly(); // Sparrow can fly!
 const penguin = new Bird("Penguin", "Honk!", false);
 penguin.makeSound(); // Honk! (from Animal)
 penguin.fly(); // Penguin cannot fly.
+
+// Summary ✨
+// Every JavaScipt object has a hiddan link(--proto--) to another object -> its prototype.
+// . A prototype is like a shared blueprent:
+// if a property/method is not found in the object, JS looks for it in the prototype.
+// . Using consructor.prototype.method = ... -> all object created from that constructor can use the methor
+// ✅ Saves memory (method stored once, shared by all objects).
