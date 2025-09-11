@@ -51,8 +51,8 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🗂️ `11-ObjectKey-objectValues-objectEntries.js` — Object.keys / Object.values / Object.entries,
 - 🔗 `12-ObjectAssign.js` — Object.Assign()
 - ❄️ `13-ObjectFreezing-Sealing.js` — Object Freezing / Sealing
-- 🧬 `14-Prototypes.js` —Object Prototypes
-- 🌳 `15-Inheritance.js` —Object Inheritance
+- 🧬 `14-Prototypes.js` — Object Prototypes
+- 🧺 `01-Array-Crcating.js` — Array Crcating
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -114,6 +114,10 @@ javaScript-a-to-z-concept/
 │  ├─ 13-ObjectFreezing-Sealing.js
 │  ├─ 14-Prototypes.js
 │  └─ 15-Inheritance.js
+│
+├─ 06-Arrays/
+│  ├─ 01-Array-Crcating.js
+│  └─
 │
 ├─ README.md
 ```
