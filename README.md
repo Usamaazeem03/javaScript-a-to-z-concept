@@ -53,6 +53,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ❄️ `13-ObjectFreezing-Sealing.js` — Object Freezing / Sealing
 - 🧬 `14-Prototypes.js` — Object Prototypes
 - 🧺 `01-Array-Crcating.js` — Array Crcating
+- ✍️ `02-AccessingAndUpdatingElements.js` — Accessing And Updating Elements
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -117,6 +118,7 @@ javaScript-a-to-z-concept/
 │
 ├─ 06-Arrays/
 │  ├─ 01-Array-Crcating.js
+│  ├─ 02-AccessingAndUpdatingElements.js
 │  └─
 │
 ├─ README.md
