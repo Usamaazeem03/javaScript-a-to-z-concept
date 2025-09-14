@@ -54,6 +54,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🧬 `14-Prototypes.js` — Object Prototypes
 - 🧺 `01-Array-Crcating.js` — Array Crcating
 - ✍️ `02-AccessingAndUpdatingElements.js` — Accessing And Updating Elements
+- 🧪 `03-ArrayMethods.js` — Array Mutating Methods
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -119,6 +120,7 @@ javaScript-a-to-z-concept/
 ├─ 06-Arrays/
 │  ├─ 01-Array-Crcating.js
 │  ├─ 02-AccessingAndUpdatingElements.js
+│  ├─ 03-ArrayMethods.js
 │  └─
 │
 ├─ README.md
