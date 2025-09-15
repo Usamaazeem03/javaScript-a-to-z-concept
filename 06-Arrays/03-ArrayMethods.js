@@ -1,3 +1,4 @@
+// Array Mutating Methods
 // push(), pop(), shift(), unShift(), splice, sort(), reverse()
 
 const fruits = ["apple", "banana", "mango", "orange"];
