@@ -24,7 +24,7 @@ console.log(a, b); //2, 1
 // Nested Array Destructuring
 const nestedArr = [1, [2, 3]];
 const [x, [z, y]] = nestedArr;
-console.log(x, y, z); //x=1,y=2,z=3
+console.log(x, y, z); //1, 3, 2
 
 //Rest operator
 const nums = [1, 2, 3, 4, 5, 6];

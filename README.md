@@ -57,6 +57,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - 🧪 `03-ArrayMethods.js` — Array Mutating Methods
 - 🛡️ `04-ArrayMethods-2.js` — Array NON-Mutating Methods
 - 🧩 `05-ArrayDestructuring.js` — Array Destructuring
+- 🌀 `06-SpreadOpt.js` — Spread Opreator In Arrays
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -125,7 +126,7 @@ javaScript-a-to-z-concept/
 │  ├─ 03-ArrayMethods.js
 │  ├─ 04-ArrayMethods-2.js
 │  ├─ 05-ArrayDestructuring.js
-│  └─
+│  └─ 06-SpreadOpt.js
 │
 ├─ README.md
 ```
