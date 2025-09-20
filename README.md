@@ -56,6 +56,7 @@ Welcome! This is a small, easy-to-follow collection of JavaScript notes and exam
 - ✍️ `02-AccessingAndUpdatingElements.js` — Accessing And Updating Elements
 - 🧪 `03-ArrayMethods.js` — Array Mutating Methods
 - 🛡️ `04-ArrayMethods-2.js` — Array NON-Mutating Methods
+- 🧩 `05-ArrayDestructuring.js` — Array Destructuring
 
   Happy learning — drop in often and tinker with the examples! 🌱
 
@@ -123,6 +124,7 @@ javaScript-a-to-z-concept/
 │  ├─ 02-AccessingAndUpdatingElements.js
 │  ├─ 03-ArrayMethods.js
 │  ├─ 04-ArrayMethods-2.js
+│  ├─ 05-ArrayDestructuring.js
 │  └─
 │
 ├─ README.md
